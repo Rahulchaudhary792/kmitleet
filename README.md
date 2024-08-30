@@ -1,8 +1,6 @@
-# React + Vite
+Plagarism Detection System<br>
+Design and implementation of a plagiarism detection tool<br>
+That can analyze the program code written by the user and returns the result whether the code is copied or not<br>
+And it will show who copied from whom.<br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/b7b7efa2-c8c1-47ea-a2a8-8e45e523bf5e)
