@@ -1,0 +1,32 @@
+[
+     {
+          "Name": "Akshay",
+          "Status": "Accepted",
+          "Code": "public class Main {\r\n    public static void main(String[] args) {\r\n        System.out.println(true);\r\n    }\r\n}",
+          "copy": "copied from Kushal"
+     },
+     {
+          "Name": "Akshay",
+          "Status": "Wrong answer",
+          "Code": "public class Main {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Hello world\");\r\n    }\r\n}",
+          "copy": "not copied"
+     },
+     {
+          "Name": "khadar",
+          "Status": "Accepted",
+          "Code": "public class Main {\r\n    public static void main(String[] args) {\r\n        System.out.println(true);\r\n    }\r\n}",
+          "copy": "copied from Kushal"
+     },
+     {
+          "Name": "Kushal",
+          "Status": "Accepted",
+          "Code": "public class Main {\r\n    public static void main(String[] args) {\r\n        System.out.println(true);\r\n    }\r\n}",
+          "copy": "not copied"
+     },
+     {
+          "Name": "sreekar",
+          "Status": "Accepted",
+          "Code": "public class Main {\r\n\r\npublic static void main(String[] args) {\r\n\r\nint x = 121;\r\n\r\nint n = x;\r\n\r\nlong rev = 0;\r\n\r\nif (x < 0) {\r\n\r\nSystem.out.println(false);\r\n\r\n}\r\n\r\nwhile (x > 0) {\r\n\r\nrev = (rev * 10) + (x % 10);\r\n\r\nx /= 10;\r\n\r\n}\r\n\r\nif (rev == n) {\r\n\r\nSystem.out.println(true);\r\n\r\n}\r\n\r\nelse {\r\n\r\nSystem.out.println(false);\r\n\r\n}\r\n\r\n}\r\n\r\n}\r\n",
+          "copy": "not copied"
+     }
+]

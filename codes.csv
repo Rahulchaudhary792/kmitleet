@@ -1,0 +1,65 @@
+Name,Code,Status
+sreekar,"public class Main {
+
+public static void main(String[] args) {
+
+int x = 121;
+
+int n = x;
+
+long rev = 0;
+
+if (x < 0) {
+
+System.out.println(false);
+
+}
+
+while (x > 0) {
+
+rev = (rev * 10) + (x % 10);
+
+x /= 10;
+
+}
+
+if (rev == n) {
+
+System.out.println(true);
+
+}
+
+else {
+
+System.out.println(false);
+
+}
+
+}
+
+}
+",Accepted
+Name,Code,Status
+Kushal,"public class Main {
+    public static void main(String[] args) {
+        System.out.println(true);
+    }
+}",Accepted
+Name,Code,Status
+khadar,"public class Main {
+    public static void main(String[] args) {
+        System.out.println(true);
+    }
+}",Accepted
+Name,Code,Status
+Akshay,"public class Main {
+    public static void main(String[] args) {
+        System.out.println(""Hello world"");
+    }
+}",Wrong answer
+Name,Code,Status
+Akshay,"public class Main {
+    public static void main(String[] args) {
+        System.out.println(true);
+    }
+}",Accepted
