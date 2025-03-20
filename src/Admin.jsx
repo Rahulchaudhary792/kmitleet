@@ -15,7 +15,7 @@ const Admin = () => {
   useEffect(() => {
 	const fetchData = async () => {
 		try {
-			const response = await fetch('../backend/all_codes.json');
+			const response = await fetch('../all_codes.json');
 			const res = await fetch('http://localhost:3000/get-scores');
 			const dat = await response.json();
 			setData(dat);
